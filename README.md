@@ -26,10 +26,12 @@
     <p>painterrr_50327</p>
 
 <a href="https://deepseametrocentral.straw.page">
+
+<p><b>The Promised Land awaits..</b></p>
+    
 <img src="https://user.uploads.dev/file/2264f88d639fbc40f258376ba034fbe8.png" alt="hanging phone">
 </a>
 
-<p>hey click here btw</p>
 
   </body>
   
