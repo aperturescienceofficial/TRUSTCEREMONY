@@ -1,6 +1,6 @@
 <p><i>Over and over I wake up scared that I've <b>died...</b></i></p>
 
-<img src="https://user.uploads.dev/file/99dc8b1fd583ad888966d3ee069bc80f.png" alt="windows 95 popups">
+<img src="https://user.uploads.dev/file/62a20bdb0d6ce5cb214bd6b4dad53fe2.png">
 
 <p><b>And each night I bury myself alive!</b></p>
 
