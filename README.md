@@ -7,9 +7,7 @@
 <h1>IMPORTANT.</h1>
 <p>If you have any information that could help me find my partner, Zackery (@computerfanaticc), anything would be useful. A town, school, social media, literally anything. Their parents have shut off their phone and I can no longer contact them. Some of their pages and profiles are still up, but some accounts have been taken down without their permission. Please contact me if you know anything that could help.</p>
 
-<hr>
-
-<img src="https://user.uploads.dev/file/bdafd7872ec2cda763f404b96b641246.png" alt="lace border">
+<hr style="border-style: solid; border-color:cadetblue; border-width: 5px; background-color: cadetblue;">
 
 <img src="https://user.uploads.dev/file/f7f914ee82aa34e19855f956cc948e6a.png" alt="tdl and tco image, credit paitei4243">
     
