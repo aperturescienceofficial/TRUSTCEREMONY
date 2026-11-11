@@ -8,6 +8,10 @@
 <p>If you have any information that could help me find my partner, Zackery (@computerfanaticc), anything would be useful. A town, school, social media, literally anything. Their parents have shut off their phone and I can no longer contact them. Some of their pages and profiles are still up, but some accounts have been taken down without their permission.</p>
 
 <hr>
+
+<img src="https://user.uploads.dev/file/bdafd7872ec2cda763f404b96b641246.png" alt="lace border">
+
+<img src="https://user.uploads.dev/file/8c1aeed4615fa7fb3be9be8a0e0b6763.png" alt="tdl and tco image">
     
 <ul>
 
