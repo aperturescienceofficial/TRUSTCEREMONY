@@ -5,7 +5,7 @@
 <p><b>And each night I bury myself alive!</b></p>
 
 <h1>IMPORTANT.</h1>
-<p>If you have any information that could help me find my partner, Zackery (@computerfanaticc), anything would be useful. A town, school, social media, literally anything. Their parents have shut off their phone and I can no longer contact them. Some of their pages and profiles are still up, but some accounts have been taken down without their permission.</p>
+<p>If you have any information that could help me find my partner, Zackery (@computerfanaticc), anything would be useful. A town, school, social media, literally anything. Their parents have shut off their phone and I can no longer contact them. Some of their pages and profiles are still up, but some accounts have been taken down without their permission. Please contact me if you know anything that could help.</p>
 
 <hr>
 
@@ -26,6 +26,9 @@
 
 <h3>DISCORD</h3>
     <p>painterrr_50327</p>
+
+<img src="https://user.uploads.dev/file/d876ba07af7b93132bf3946fb03e16a4.png">
+<img src="https://user.uploads.dev/file/d876ba07af7b93132bf3946fb03e16a4.png">
 
   </body>
   
