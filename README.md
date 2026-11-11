@@ -9,10 +9,9 @@
 
 <hr>
 
-<!-- FIX HEIGHT OF LACE , FIX BORDER AROUND TDL/TCO FRON BG REMOVE -->
 <img src="https://user.uploads.dev/file/bdafd7872ec2cda763f404b96b641246.png" alt="lace border">
 
-<img src="https://user.uploads.dev/file/8c1aeed4615fa7fb3be9be8a0e0b6763.png" alt="tdl and tco image, credit paitei4243">
+<img src="https://user.uploads.dev/file/f7f914ee82aa34e19855f956cc948e6a.png" alt="tdl and tco image, credit paitei4243">
     
 <ul>
 
