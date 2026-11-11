@@ -1,10 +1,7 @@
-<p><i>Over and over I wake up scared that I've <b>died. . .</b></i></p>
-
-![https://user.uploads.dev/file/99dc8b1fd583ad888966d3ee069bc80f.png]
+<p><i>Over and over I wake up scared that I've <b>died. . .</i></p>
 
 <p><b>And each night I bury myself alive!</b></p>
-
-<img src="https://user.uploads.dev/file/226f127bab1ce2afd1e95b277d41adaa.png" alt="splatoon-style profile banner">
+![https://user.uploads.dev/file/226f127bab1ce2afd1e95b277d41adaa.png]
     
 <ul>
 
