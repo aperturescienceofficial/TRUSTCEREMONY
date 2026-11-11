@@ -27,8 +27,8 @@
 <h3>DISCORD</h3>
     <p>painterrr_50327</p>
 
-<img src="https://user.uploads.dev/file/d876ba07af7b93132bf3946fb03e16a4.png">
-<img src="https://user.uploads.dev/file/2264f88d639fbc40f258376ba034fbe8.png">
+
+<img src="https://user.uploads.dev/file/2264f88d639fbc40f258376ba034fbe8.png" alt="hanging phone">
 
   </body>
   
