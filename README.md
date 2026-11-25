@@ -25,7 +25,7 @@
 <h3>DISCORD</h3>
     <p>painterrr_50327</p>
 
-<a href="https://deepseametrocentral.straw.page">
+<a href="https://splatnet27.straw.page">
 
 <p><b>The Promised Land awaits..</b></p>
     
